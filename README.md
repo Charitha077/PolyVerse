@@ -1,0 +1,1 @@
+Developed a deep learning model using a Feedforward Neural Network (FNN) to predict polymer properties. This helps researchers analyse structure-property relationships, optimize model parameters, and design materials with desired characteristics.
